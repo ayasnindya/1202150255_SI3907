@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StudyCase1</string>
+    <string name="edittext_menum">menu_makanan</string>
+    <string name="edittext_jumlah">jumlah_makanan</string>
+    <string name="button_1">EatBus</string>
+    <string name="button_2">ABNOMAL</string>
+</resources>
